@@ -1,0 +1,2 @@
+rootProject.name='Kleague_Project'
+include ':app'

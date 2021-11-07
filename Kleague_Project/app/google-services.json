@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "300169207996",
+    "firebase_url": "https://kleague-project.firebaseio.com",
+    "project_id": "kleague-project",
+    "storage_bucket": "kleague-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300169207996:android:d980b171e6645ceffcf0b9",
+        "android_client_info": {
+          "package_name": "kr.ac.beaseok.kleague_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300169207996-9rpaqvpn3g1r1thvdkuvsff8qkjlu3oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV-8OYs9Q71_QyIiK4ZMs7ZhPqjuTASPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300169207996-9rpaqvpn3g1r1thvdkuvsff8qkjlu3oj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
